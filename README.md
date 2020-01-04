@@ -5,9 +5,9 @@ A flutter app to store contacts
 Features:
 - Save contacts in SQFlite database
 - Use of camera/gallery
-- Contact ordering;
-- Call a contact;
-- Form validation;
+- Contact ordering
+- Call a contact
+- Form validation
 
 ## Getting Started
 
